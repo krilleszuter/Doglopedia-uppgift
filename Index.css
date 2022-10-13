@@ -21,4 +21,11 @@ text-align: center;
    padding-top: 20px;
    display: block;
  }
+
+  
+ .link {
+   padding: 10px 25px;
+  text-decoration-style: dotted;   color: black;
+ }
+ 
  
