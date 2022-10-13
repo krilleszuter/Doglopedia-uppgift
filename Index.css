@@ -4,3 +4,21 @@ margin-left: auto;
 margin-right: auto;
 text-align: center;
 }
+
+#huvud {
+   height: 110px;
+   background-color: #faf1d7;
+   font-size: 30px;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding-top: 25px;
+   border-radius: 2px;
+   color: #6a430596;
+   margin-top: -1px;
+ }
+  
+ #undertext {
+   font-size: 25px;
+   padding-top: 20px;
+   display: block;
+ }
+ 
