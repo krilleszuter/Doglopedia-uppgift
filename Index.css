@@ -58,7 +58,14 @@ text-align: center;
   
  #text {
    text-align: start;
+   font-size: 16px;
  }
+
+ #kattlopedia {
+   font-size: 15px;
+   padding: 15px;
+ }
+  
  
  
  
