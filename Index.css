@@ -36,6 +36,20 @@ text-align: center;
  h3 {
    font-size: 25px;
  }
+
+ #katt {
+   background-image: url(katt.jpg);
+   height: 300px;
+   width: 300px;
+   background-size: cover;
+   border-radius: 50%;
+   background-position: center;
+   margin-left: 140px;
+   border-bottom: 2px solid black;
+   border-top:1px solid black ;
+   border-right: 1px solid black ;
+   border-left: 1px solid black;
+ }
  
  
  
